@@ -1,0 +1,15 @@
+# Install a CUDA torch build first on the 4090 (see README). Then:
+#   pip install -r requirements.txt
+pymupdf>=1.24.0
+pandas>=2.0
+numpy>=1.26
+Pillow>=10.0
+tqdm>=4.66
+rank-bm25>=0.2.2
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.0
+transformers>=4.49.0
+accelerate>=0.34.0
+qwen-vl-utils>=0.0.8
+bitsandbytes>=0.43.0
+safetensors>=0.4.0

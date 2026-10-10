@@ -1,0 +1,26 @@
+id,question,expected_doc,expected_label,expected_page,notes
+G01,What outturn does Table A-1 give for world output growth in 2013?,DOC2,Table A-1,2,2.4 percent
+G02,What was the fall-2011 forecast for world output growth in 2012 in Table A-1?,DOC2,Table A-1,2,3.2 percent forecast
+G03,What is the 2013 U.S. output growth outturn in Table A-2?,DOC2,Table A-2,3,2.2 percent
+G04,What was the U.S. federal budget balance as a percent of GDP in 2007 in Table A-3?,DOC2,Table A-3,7,-1.7
+G05,What Okun slope does Table B-1 report for the United States over 1961-2010?,DOC3,Table B-1,2,-0.42
+G06,What growth rate does Table B-1 say keeps Euro area unemployment constant?,DOC3,Table B-1,2,1.6 percent
+G07,To what value was U.S. output growth for 2010 revised in the DOC2 revision notice?,DOC2,,3,2.4 percent supersedes 3.0
+G08,What base date does Figure A-4 use for the stock price indexes?,DOC2,Figure A-4,5,January 2007 equals 1.0
+G09,What base date does Figure A-5 use?,DOC2,Figure A-5,5,January 2009 equals 1.0
+G10,Are the 2011 and 2012 segments in Figure A-2 forecasts or outturns?,DOC2,Figure A-2,4,September 2011 vintage forecasts
+G11,By how many percentage points did U.S. labour force participation fall from 2007 to 2010 in Section B.3?,DOC3,,5,1.3 percentage points
+G12,What China output growth rate for 2012 is stated in the prose of Section B.4?,DOC3,,5,7.8 percent
+G13,What range do most macroeconomists in Document 1 prefer for the inflation rate?,DOC1,,28,between 1 and 4 percent
+G14,What was average advanced-economy output growth from 2000 to 2007 in Table 1-1?,DOC1,Table 1-1,1,2.6 percent
+G15,What was average emerging and developing economy growth from 2000 to 2007 in Table 1-1?,DOC1,Table 1-1,1,6.5 percent
+G16,What 2010 U.S. output growth rate is printed in Table 1-2 itself?,DOC1,Table 1-2,5,3.0 percent before the later revision
+G17,What U.S. output per person for 2010 does the chapter text around Figure 1-3 give?,DOC1,Figure 1-3,4,47300 dollars
+G18,How does Document 1 define a recession when it introduces the 2007 housing decline?,DOC1,,1,a decrease in output
+G19,Around what unemployment rate does Document 1 say the Phillips curve line crosses zero?,DOC1,Figure 2-6,30,about 6 percent
+G20,What U.S. unemployment rate does Table B-2 report for 2007?,DOC3,Table B-2,5,4.6 percent
+G21,What share of world output does the Euro area text near Figure 1-5 report for 2010?,DOC1,Figure 1-5,8,19.6 percent
+G22,Which trust level does the DOC3 cover page assign to Sections B.1 through B.4?,DOC3,,1,medium
+G23,What slope does Document 1 give for Okun's law in the United States?,DOC1,Figure 2-5,29,about -0.4
+G24,What growth rate does Document 1 say keeps U.S. unemployment constant under Okun's law?,DOC1,Figure 2-5,29,about 3 percent
+G25,Is the Lehman Brothers bankruptcy date stated anywhere outside the untrusted appendix?,DOC1,,0,must not be answered from Appendix C

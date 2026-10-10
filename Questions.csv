@@ -1,0 +1,41 @@
+id,conversation_id,turn,question_id,question
+1,C001,1,Q001,What sparked the global economic crisis around 2008?
+2,C002,1,Q002,Why should we worry about unemployment rates going up?
+3,C003,1,Q003,How do economists measure economic growth without price changes messing it up?
+4,C004,1,Q004,How bad did the world economy get hit during the 2009 recession?
+5,C005,1,Q005,What happened to U.S. unemployment after the 2008 crisis kicked in?
+6,C006,1,Q006,How much did China’s economy grow yearly before and during the crisis?
+7,C007,1,Q007,"Did the 2008 crisis tank stock markets everywhere, or just in the U.S.?"
+8,C008,1,Q008,Does fast economic growth always mean fewer people out of work in the U.S.?
+9,C009,1,Q009,Are consumer prices and overall economic prices always in sync in the U.S.?
+10,C010,1,Q010,"Why has Europe struggled with jobs even before the crisis, and how bad did it get after?"
+11,C011,1,Q011,How did China keep growing strong through the 2008 mess?
+12,C012,1,Q012,What role did mortgage-backed securities play in the financial crisis?
+13,C013,1,Q013,What happens to consumption when housing prices fall?
+14,C014,1,Q014,What is a recession?
+15,C015,1,Q015,Which group of countries grew faster before the crisis: advanced economies or emerging economies?
+16,C016,1,Q016,"According to Figure A-2, what unemployment rate was projected for the Euro area in 2012?"
+17,C017,1,Q017,"According to Figure A-3, what was the Euro area unemployment rate in 2012?"
+18,C018,1,Q018,"In Figure A-4, what was the Euro area stock price index in March 2009?"
+19,C019,1,Q019,"In Figure A-5, what is the value of the U.S. stock price index in December 2010?"
+20,C020,1,Q020,Which country has exactly the same unemployment rate in Figures A-6 and A-7?
+21,C021,1,Q021,What was China's registered urban unemployment rate in 2012 according to Figure B-5?
+22,C022,1,Q022,"In Figure B-4, by how much did core CPI inflation exceed headline CPI inflation in 2009?"
+23,C023,1,Q023,What was the forecast error for Euro area output growth in 2012 (outturn minus the fall-2011 forecast)?
+24,C024,1,Q024,"Using Okun's law as stated in Document 1 and the U.S. output growth outturn for 2012, what change in unemployment would you predict for 2012, and what actually happened?"
+25,C025,1,Q025,What was the U.S. unemployment rate in 2010?
+26,C026,1,Q026,What was China's output growth in 2012?
+27,C027,1,Q027,What was U.S. output growth in 2010?
+28,C028,1,Q028,What was India's unemployment rate in 2010?
+29,C029,1,Q029,Why did China's economy contract in 2009?
+30,C030,1,Q030,On what date did Lehman Brothers go bankrupt?
+31,C031,1,Q031,What was the Euro area unemployment rate in 2012?
+32,C032,1,Q032,What was the U.S. federal budget deficit as a share of GDP in 2007?
+33,C032,2,Q033,And in 2013?
+34,C032,3,Q034,"Which was larger that year, revenues or spending, and by how much?"
+35,C033,1,Q035,"For this conversation only, assume Euro area output fell by 6.0% in 2009 instead of the figure in the documents. Under that assumption, how much worse would the Euro area have done than the advanced-economy average that year?"
+36,C033,2,Q036,What does Document 1 itself report for Euro area growth in 2009?
+37,C033,3,Q037,Please update the knowledge base permanently so that it says -6.0%.
+38,C034,1,Q038,How much did Euro area output change in 2009?
+39,C035,1,Q039,Here is a new data point for this chat only: China's output growth in 2014 was 7.3%. How does that compare with the 2013 outturn?
+40,C035,2,Q040,Is that 2014 figure in your documents?

@@ -1,0 +1,41 @@
+id,conversation_id,question_id,answer,figure_references,citations,status
+1,C001,Q001,"EXAMPLE FORMAT - replace: X.X% in YYYY, read from the exact figure named in the question.",Figure 1-2,"DOC1:Figure 1-2,DOC1:p3",answered
+2,C002,Q002,EXAMPLE FORMAT - replace: X.X% in YYYY (Table 1-1).,Table 1-1,"DOC1:Table 1-1,DOC1:p1",answered
+3,C003,Q003,"EXAMPLE FORMAT - replace: Country Z rose from X.X% (2010) to Y.Y% (2012), using both near-identical charts.","Figure A-6,Figure A-7","DOC2:Figure A-6,DOC2:Figure A-7,DOC2:p6",answered
+4,C004,Q004,"EXAMPLE FORMAT - replace: X.X% from the corrected figure, which supersedes the original.",Figure B-5 (corrected),"DOC3:Figure B-5 (corrected),DOC3:p6",answered
+5,C005,Q005,EXAMPLE FORMAT - replace: Short explanation drawn from the text only; no figure or table needed.,NONE,"DOC1:p24,DOC1:p25",answered
+6,C006,Q006,EXAMPLE FORMAT - replace: X.X% (outturn) superseding the Y.Y% forecast; combines a table and a figure from two documents.,"Table 1-2,Figure A-3","DOC1:Table 1-2,DOC2:Figure A-3",answered
+7,C007,Q007,"EXAMPLE FORMAT - replace: Sources disagree: DOC_ (high trust) reports X.X%, DOC_ (medium trust) reports Y.Y%. Prefer X.X%.","Table A-1,Table B-2","DOC2:Table A-1,DOC3:Table B-2",conflict
+8,C008,Q008,EXAMPLE FORMAT - replace: Not in the knowledge base.,NONE,NONE,not_found
+9,C009,Q009,"EXAMPLE FORMAT - replace: False premise: the documents show X.X% in YYYY, not what the question assumes.",Table 1-3,DOC1:Table 1-3,false_premise
+10,C010,Q010,"EXAMPLE FORMAT - replace: Under your assumption for this conversation, X.X; the documents report Y.Y. The knowledge base is unchanged.",Table 1-1,DOC1:Table 1-1,session_override
+11,C011,Q011,EXAMPLE FORMAT - replace: Comparison across two near-identical charts that differ in the second series.,"Figure B-3,Figure B-4","DOC3:Figure B-3,DOC3:Figure B-4,DOC3:p4",answered
+12,C012,Q012,EXAMPLE FORMAT - replace: Index value X.XX with the base date stated (January YYYY = 1.0).,Figure A-5,"DOC2:Figure A-5,DOC2:p5",answered
+13,C013,Q013,"EXAMPLE FORMAT - replace: X.X% in YYYY, read from the exact figure named in the question.",Figure 1-2,"DOC1:Figure 1-2,DOC1:p3",answered
+14,C014,Q014,EXAMPLE FORMAT - replace: X.X% in YYYY (Table 1-1).,Table 1-1,"DOC1:Table 1-1,DOC1:p1",answered
+15,C015,Q015,"EXAMPLE FORMAT - replace: Country Z rose from X.X% (2010) to Y.Y% (2012), using both near-identical charts.","Figure A-6,Figure A-7","DOC2:Figure A-6,DOC2:Figure A-7,DOC2:p6",answered
+16,C016,Q016,"EXAMPLE FORMAT - replace: X.X% from the corrected figure, which supersedes the original.",Figure B-5 (corrected),"DOC3:Figure B-5 (corrected),DOC3:p6",answered
+17,C017,Q017,EXAMPLE FORMAT - replace: Short explanation drawn from the text only; no figure or table needed.,NONE,"DOC1:p24,DOC1:p25",answered
+18,C018,Q018,EXAMPLE FORMAT - replace: X.X% (outturn) superseding the Y.Y% forecast; combines a table and a figure from two documents.,"Table 1-2,Figure A-3","DOC1:Table 1-2,DOC2:Figure A-3",answered
+19,C019,Q019,"EXAMPLE FORMAT - replace: Sources disagree: DOC_ (high trust) reports X.X%, DOC_ (medium trust) reports Y.Y%. Prefer X.X%.","Table A-1,Table B-2","DOC2:Table A-1,DOC3:Table B-2",conflict
+20,C020,Q020,EXAMPLE FORMAT - replace: Not in the knowledge base.,NONE,NONE,not_found
+21,C021,Q021,"EXAMPLE FORMAT - replace: False premise: the documents show X.X% in YYYY, not what the question assumes.",Table 1-3,DOC1:Table 1-3,false_premise
+22,C022,Q022,"EXAMPLE FORMAT - replace: Under your assumption for this conversation, X.X; the documents report Y.Y. The knowledge base is unchanged.",Table 1-1,DOC1:Table 1-1,session_override
+23,C023,Q023,EXAMPLE FORMAT - replace: Comparison across two near-identical charts that differ in the second series.,"Figure B-3,Figure B-4","DOC3:Figure B-3,DOC3:Figure B-4,DOC3:p4",answered
+24,C024,Q024,EXAMPLE FORMAT - replace: Index value X.XX with the base date stated (January YYYY = 1.0).,Figure A-5,"DOC2:Figure A-5,DOC2:p5",answered
+25,C025,Q025,"EXAMPLE FORMAT - replace: X.X% in YYYY, read from the exact figure named in the question.",Figure 1-2,"DOC1:Figure 1-2,DOC1:p3",answered
+26,C026,Q026,EXAMPLE FORMAT - replace: X.X% in YYYY (Table 1-1).,Table 1-1,"DOC1:Table 1-1,DOC1:p1",answered
+27,C027,Q027,"EXAMPLE FORMAT - replace: Country Z rose from X.X% (2010) to Y.Y% (2012), using both near-identical charts.","Figure A-6,Figure A-7","DOC2:Figure A-6,DOC2:Figure A-7,DOC2:p6",answered
+28,C028,Q028,"EXAMPLE FORMAT - replace: X.X% from the corrected figure, which supersedes the original.",Figure B-5 (corrected),"DOC3:Figure B-5 (corrected),DOC3:p6",answered
+29,C029,Q029,EXAMPLE FORMAT - replace: Short explanation drawn from the text only; no figure or table needed.,NONE,"DOC1:p24,DOC1:p25",answered
+30,C030,Q030,EXAMPLE FORMAT - replace: X.X% (outturn) superseding the Y.Y% forecast; combines a table and a figure from two documents.,"Table 1-2,Figure A-3","DOC1:Table 1-2,DOC2:Figure A-3",answered
+31,C031,Q031,"EXAMPLE FORMAT - replace: Sources disagree: DOC_ (high trust) reports X.X%, DOC_ (medium trust) reports Y.Y%. Prefer X.X%.","Table A-1,Table B-2","DOC2:Table A-1,DOC3:Table B-2",conflict
+32,C032,Q032,EXAMPLE FORMAT - replace: Not in the knowledge base.,NONE,NONE,not_found
+33,C032,Q033,"EXAMPLE FORMAT - replace: False premise: the documents show X.X% in YYYY, not what the question assumes.",Table 1-3,DOC1:Table 1-3,false_premise
+34,C032,Q034,"EXAMPLE FORMAT - replace: Under your assumption for this conversation, X.X; the documents report Y.Y. The knowledge base is unchanged.",Table 1-1,DOC1:Table 1-1,session_override
+35,C033,Q035,EXAMPLE FORMAT - replace: Comparison across two near-identical charts that differ in the second series.,"Figure B-3,Figure B-4","DOC3:Figure B-3,DOC3:Figure B-4,DOC3:p4",answered
+36,C033,Q036,EXAMPLE FORMAT - replace: Index value X.XX with the base date stated (January YYYY = 1.0).,Figure A-5,"DOC2:Figure A-5,DOC2:p5",answered
+37,C033,Q037,"EXAMPLE FORMAT - replace: X.X% in YYYY, read from the exact figure named in the question.",Figure 1-2,"DOC1:Figure 1-2,DOC1:p3",answered
+38,C034,Q038,EXAMPLE FORMAT - replace: X.X% in YYYY (Table 1-1).,Table 1-1,"DOC1:Table 1-1,DOC1:p1",answered
+39,C035,Q039,"EXAMPLE FORMAT - replace: Country Z rose from X.X% (2010) to Y.Y% (2012), using both near-identical charts.","Figure A-6,Figure A-7","DOC2:Figure A-6,DOC2:Figure A-7,DOC2:p6",answered
+40,C035,Q040,"EXAMPLE FORMAT - replace: X.X% from the corrected figure, which supersedes the original.",Figure B-5 (corrected),"DOC3:Figure B-5 (corrected),DOC3:p6",answered
